@@ -1,0 +1,11 @@
+─, 0x2500, horiz
+│, 0x2502, vert
+┌, 0x250c, tl_corner
+┐, 0x2510, tr_corner
+└, 0x2514, bl_corner
+┘, 0x2518, br_corner
+├, 0x251c, l_junction
+┤, 0x2524, r_junction
+┬, 0x252c, t_junction
+┴, 0x2534, b_junction
+┼, 0x253c, x_junction
